@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string-array name="itemname">
+        <item>Meter</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+    <string name="Meter">Meter</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Kilogram">Kilogram</string>
+    <string name="Output">Output</string>
+    <string name="Number">Number</string>
+
+</resources>
